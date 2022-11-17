@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Web Developer and Web Designer from Pakistan</h3>
 
-<img align="right" alt="coding" src="[[https://miro.medium.com/max/1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)" width="400">
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khan-kakar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khan-kakar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah-khan-kakar](https://github.com/abdullah-khan-kakar)
